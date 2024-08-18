@@ -1,0 +1,7 @@
+---
+devices:
+  - /dev/vdb
+  - /dev/vdc
+  - /dev/vdd
+  - /dev/vde
+  - /dev/vde
